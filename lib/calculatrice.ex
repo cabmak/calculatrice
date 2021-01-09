@@ -15,4 +15,8 @@ defmodule Calculatrice do
   def hello do
     :world
   end
+
+  def test do
+    "test"
+  end
 end
